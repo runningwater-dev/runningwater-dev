@@ -35,21 +35,21 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=runningwater-dev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=runningwater-dev&theme=tokyonight" />
 </p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🔹 DailyQuote Generator
+## 🔹 [DailyQuote Generator] (https://github.com/runningwater-dev/DailyQuote-Generator)
 Fetches random quotes from a live API and lets share quotes directly to X (Twitter).
 
-## 🔹 Netflix landing page Clone
+## 🔹 [Netflix landing page Clone] (https://github.com/runningwater-dev/Netflix-LandingPage-Clone)
 Frontend Netflix landing page UI clone using HTML, CSS Js.
 
 ---
