@@ -46,11 +46,13 @@
 
 # 🌟 Featured Projects
 
-## 🔹 [DailyQuote Generator] (https://github.com/runningwater-dev/DailyQuote-Generator)
-Fetches random quotes from a live API and lets share quotes directly to X (Twitter).
+## 🔹 [DailyQuote Generator] 
+Fetches random quotes from a live API and allows users to share quotes directly to X (Twitter).
+(https://github.com/runningwater-dev/DailyQuote-Generator)
 
-## 🔹 [Netflix landing page Clone] (https://github.com/runningwater-dev/Netflix-LandingPage-Clone)
+## 🔹 [Netflix landing page Clone] 
 Frontend Netflix landing page UI clone using HTML, CSS Js.
+(https://github.com/runningwater-dev/Netflix-LandingPage-Clone)
 
 ---
 
