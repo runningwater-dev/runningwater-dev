@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansi</h1>
-<h3 align="center">CSE Student | Web Developer | MERN stack | DSA Enthusiast</h3>
+<h3 align="center">CSE Student | Web Developer | MERN stack | Data Science Enthusiast</h3>
 
 ---
 
