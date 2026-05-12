@@ -35,11 +35,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=runningwater-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=runningwater-dev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=runningwater-dev&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=runningwater-dev&theme=tokyonight" height="180em"/>
 </p>
 
 ---
