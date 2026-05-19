@@ -45,6 +45,9 @@
 ---
 
 # 🌟 Featured Projects
+## 🔹AI-Python-Code-Analyzer
+- An AI-powered full-stack code analysis platform that analyzes Python files for bugs, code smells, complexity issues, and edge cases.
+- https://github.com/runningwater-dev/AI-Python-Code-Analyzer
 
 ## 🔹 DailyQuote Generator
 - Fetches random quotes from a live API and allows users to share quotes directly to X (Twitter).
