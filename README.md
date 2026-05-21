@@ -34,9 +34,6 @@
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=runningwater-dev&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=runningwater-dev&theme=tokyonight" />
@@ -66,5 +63,9 @@
 - GitHub: https://github.com/runningwater-dev
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=runningwater-dev&show_icons=true&theme=tokyonight" />
+</p>
 
 <h3 align="center">Thanks for visiting my profile ⭐</h3>
