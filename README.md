@@ -32,14 +32,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=runningwater-dev&theme=tokyonight" />
-</p>
-
----
-
 # 🌟 Featured Projects
 ## 🔹AI-Python-Code-Analyzer
 - An AI-powered full-stack code analysis platform that analyzes Python files for bugs, code smells, complexity issues, and edge cases.
