@@ -35,7 +35,7 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=runningwater-dev)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=runningwater-dev&theme=tokyonight" />
 </p>
 
 ---
